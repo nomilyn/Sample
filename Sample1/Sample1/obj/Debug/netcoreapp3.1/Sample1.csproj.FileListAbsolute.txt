@@ -1,0 +1,11 @@
+D:\sample_git\Sample1\Sample1\bin\Debug\netcoreapp3.1\Sample1.exe
+D:\sample_git\Sample1\Sample1\bin\Debug\netcoreapp3.1\Sample1.deps.json
+D:\sample_git\Sample1\Sample1\bin\Debug\netcoreapp3.1\Sample1.runtimeconfig.json
+D:\sample_git\Sample1\Sample1\bin\Debug\netcoreapp3.1\Sample1.runtimeconfig.dev.json
+D:\sample_git\Sample1\Sample1\bin\Debug\netcoreapp3.1\Sample1.dll
+D:\sample_git\Sample1\Sample1\bin\Debug\netcoreapp3.1\Sample1.pdb
+D:\sample_git\Sample1\Sample1\obj\Debug\netcoreapp3.1\Sample1.csprojAssemblyReference.cache
+D:\sample_git\Sample1\Sample1\obj\Debug\netcoreapp3.1\Sample1.AssemblyInfoInputs.cache
+D:\sample_git\Sample1\Sample1\obj\Debug\netcoreapp3.1\Sample1.AssemblyInfo.cs
+D:\sample_git\Sample1\Sample1\obj\Debug\netcoreapp3.1\Sample1.dll
+D:\sample_git\Sample1\Sample1\obj\Debug\netcoreapp3.1\Sample1.pdb
